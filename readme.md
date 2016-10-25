@@ -2,15 +2,15 @@
 
 ## Colors
 The color palette is based off of blue
-Primary Color: #067AE2
-Secondary Color: #1265AF
+Primary Color: #067AE2 <br/>
+Secondary Color: #1265AF <br/> 
 
-Light Grey: #DDDDDD
-Dark Grey: #141B21
-Darker Grey: #000509
+Light Grey: #DDDDDD <br/>
+Dark Grey: #141B21 <br/>
+Darker Grey: #000509 
 
 ## Fonts
-Headings: Scope One 
+Headings: Scope One <br/>
 Body: Raleway (double spaced) 
 
 ## General Style
