@@ -1,7 +1,7 @@
 # Blueprint CoursePlanner Style Guide
 
 ## Colors
-The color palette is based off of blue
+The color palette is based off of blue <br/>
 Primary Color: #067AE2 <br/>
 Secondary Color: #1265AF <br/> 
 
